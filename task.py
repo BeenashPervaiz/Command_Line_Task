@@ -1,0 +1,6 @@
+print(" Assalam-O-Alaikum! ") 
+print("Walaikum Salam'!'")
+print( 'Assalam-O-Alaikum! ')
+print('Walaikum Salam"!"')
+print("I 'm Beenash")
+print("I am Beenash")
